@@ -1,0 +1,20 @@
+{
+    "filmes": [
+        {
+            "codigo" : 1,
+            "titulo": "A Pele que Habito",
+            "duracao": 2,
+            "atores": ["Antonio Banderas", "Elena Anaya"],
+            "anoDeLancamento" : 2011,
+            "emCartaz": false
+          },
+          {
+            "codigo": 2,
+            "titulo": "Ex_Machina: Instinto Artificial",
+            "duracao": 2,
+            "atores": ["Alicia Vikander","Oscar Isaac"],
+            "anoDeLancamento" : 2015,
+            "emCartaz": true
+          }
+    ]
+ }
